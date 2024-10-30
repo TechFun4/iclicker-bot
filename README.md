@@ -1,0 +1,2 @@
+# iclicker-bot
+Automate iclicker
